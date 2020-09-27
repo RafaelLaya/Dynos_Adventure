@@ -1,6 +1,6 @@
 # Dyno's-Adventure
 
-Dyno's Adventure main character is Dyno, a brave knight who lives in a very dangerous world. Dyno must avoid the dangers and try to live as much as possible. This game is for the DE1 SoC board.
+Dyno's Adventure main character is Dyno, a brave knight who lives in a very dangerous world. Dyno must avoid the dangers and try to live as much as possible. The top-level module interfaces with the DE1 SoC board.
 
 # Dependencies
 * Everything is self-contained in this repository
