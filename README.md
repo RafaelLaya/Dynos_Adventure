@@ -6,7 +6,7 @@ Dyno's Adventure main character is Dyno, a brave knight who lives in a very dang
 * Everything is self-contained in this repository
 
 # Usage
-* Connect a speaker to the auxiliary out channel
+* Connect a speaker to the auxiliary output channel
 * Connect a native PS/2 keyboard through the PS/2 port
 * Connect a display through the VGA port
 * Build and upload to your DE1_SoC board
