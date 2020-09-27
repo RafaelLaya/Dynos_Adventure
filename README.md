@@ -13,14 +13,17 @@ Dyno's Adventure main character is Dyno, a brave knight who lives in a very dang
 * Have fun! 
 
 # Controls
+
 ## In-Game (Playing)
 * Space Bar: Jump
 * Down arrow key: Duck
 * Secret Cheat-Code #1: Slow down
 * Secret Cheat-Code #2: Indestructible
+
 ## In-Game (Lost)
 * m: Go to menu
 * r: Play again
+
 ## Menu
 * Up arrow key: Scroll up
 * Down arrow key: Scroll down
