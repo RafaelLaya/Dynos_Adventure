@@ -27,4 +27,4 @@ Dyno's Adventure main character is Dyno, a brave knight who lives in a very dang
 * Enter: Selects the current option
 
 
-# What is your high score?
+# Are you a brave warrior willing to take the challenge?
